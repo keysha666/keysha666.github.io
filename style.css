@@ -1,0 +1,35 @@
+header {
+	height: 200px;
+	background-image: url(http://placehold.it/960x200?text=Logo+Mateusza+Kaszy);
+}
+
+.logo-background {
+  background-color: #ddd;
+}
+
+body{
+  margin: 0;
+  background: #BBEFBF; /* Old browsers */
+  background: -moz-linear-gradient(top, #BBEFBF 0%, #04900F 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #BBEFBF 0%, #04900F 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #BBEFBF 0%, #04900F 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#BBEFBF', endColorstr='#04900F', GradientType=0 ); /* IE6-9 */
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+nav div {
+	float: left;
+}
+
+nav div {
+	margin: 5px 15px 5px 15px;
+
+}
+
+.container {
+	width: 960px;
+	margin: 0 auto;
+}
+
+http://www.gravatar.com/avatar/b48def645758b95537d4424c84d1a9ff?s=200&d=identicon
