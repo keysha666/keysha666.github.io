@@ -7,6 +7,13 @@ header {
   background-color: #ddd;
 }
 
+.avatar {
+  background-image: url(http://www.gravatar.com/avatar/4031ef7d67fe1db9d5ba26147083e7e1?s=200&d=identicon);
+  width: 200px;
+  height: 200px;
+  float: right;
+}
+
 body{
   margin: 0;
   background: #BBEFBF; /* Old browsers */
@@ -31,5 +38,3 @@ nav div {
 	width: 960px;
 	margin: 0 auto;
 }
-
-http://www.gravatar.com/avatar/b48def645758b95537d4424c84d1a9ff?s=200&d=identicon
